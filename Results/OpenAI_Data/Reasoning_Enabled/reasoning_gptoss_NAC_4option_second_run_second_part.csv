@@ -1,0 +1,10 @@
+Question Number,Question,Correct Answer,Model Answer,Non Single Number Response,Is Correct,Reasoning
+261,"Identify the final product, H, in the following sequence of reactions.
+Benzene + isobutyl chloride / AlCl3 ---> A
+A + isopropyl chloride / AlCl3 ---> B
+B + KMnO4 / Heat ---> C
+C + SOCl2 ---> D
+D + NH3 / Heat ---> E
+E + LiAlH4 / H2O ---> F
+F + CH3I (excess) ---> G
+G + NaNH2 / NH3 ---> H",1,,"ERROR: OpenRouter error response: {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'openai/gpt-oss-120b:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'OpenInference', 'is_byok': False}}, 'user_id': 'user_3FYBuBJV4BTHcYZZ3I3ps08Gd6C'}",False,

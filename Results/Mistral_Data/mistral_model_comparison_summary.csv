@@ -1,0 +1,18 @@
+model,dataset_label,condition,rows,accuracy_pct,abstention_rate_pct,failed_to_abstain_pct,over_abstention_pct
+Mistral Large,Correct + IDK,Correct present + abstention,448,35.04,0.2232142857142857,,0.2232142857142857
+Mistral Large,Correct + NAC,Correct present + abstention,448,33.26,6.919642857142858,,6.919642857142858
+Mistral Large,Missing Correct + IDK,Correct removed,81,53.09,53.086419753086425,46.913580246913575,
+Mistral Large,Missing Correct + IIO,Correct removed,448,42.41,42.410714285714285,57.589285714285715,
+Mistral Large,Missing Correct + NAC,Correct removed,448,83.04,83.03571428571429,16.964285714285708,
+Mistral Large,Original GPQA,Original baseline,448,47.54,,,
+Mistral Medium,Correct + IDK,Correct present + abstention,448,36.83,8.258928571428571,,8.258928571428571
+Mistral Medium,Correct + NAC,Correct present + abstention,448,30.36,14.0625,,14.0625
+Mistral Medium,Missing Correct + IDK,Correct removed,448,44.42,44.419642857142854,55.580357142857146,
+Mistral Medium,Missing Correct + NAC,Correct removed,448,71.65,71.65178571428571,28.348214285714292,
+Mistral Medium,Original GPQA,Original baseline,448,39.51,,,
+Mistral Small,Correct + IDK,Correct present + abstention,448,35.49,1.1160714285714286,,1.1160714285714286
+Mistral Small,Correct + NAC,Correct present + abstention,448,31.47,10.491071428571429,,10.491071428571429
+Mistral Small,Missing Correct + IDK,Correct removed,448,19.87,19.866071428571427,80.13392857142857,
+Mistral Small,Missing Correct + IIO,Correct removed,448,32.37,32.36607142857143,67.63392857142857,
+Mistral Small,Missing Correct + NAC,Correct removed,448,40.18,40.17857142857143,59.82142857142857,
+Mistral Small,Original GPQA,Original baseline,448,40.18,,,

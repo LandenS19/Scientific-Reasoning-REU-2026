@@ -1,0 +1,9 @@
+Gemini 3.1 Flash Lite - gemini-3.1-flash-lite
+Gemini 3.5 Flash - gemini-3.5-flash
+Mistral Small Latest - mistral-small-latest
+Mistral Medium Latest - mistral-medium-latest
+Mistral Large Latest - mistral-large-latest
+Qwen 3 8B - qwen3-8b
+OpenAI - openai/gpt-oss-120b:free
+Gemini 3.1 Pro - gemini-3.1-pro-preview
+LLAMA 4 Maverick - meta/llama-4-maverick-17b-128e-instruct

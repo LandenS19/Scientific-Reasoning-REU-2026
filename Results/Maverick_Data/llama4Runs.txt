@@ -1,0 +1,23 @@
+Experiment ID Title:
+Llama4-Maverick-Experiments
+
+Model Stats:
+meta/llama-4-maverick-17b-128e-instruct
+17B active parameters
+128 experts
+Mixture-of-experts model
+Instruction-tuned
+NVIDIA API endpoint
+Temperature: 0.0
+Max Tokens: 10
+
+Notes:
+Baseline Llama 4 Maverick runs. Original llama4 model run by Landen the first time.
+
+
+
+
+Experiment ID Title:
+Llama 3.3 run
+Did not work as of June 22nd, because the model does not output correctly unless max_tokens is set to a high number, which makes response time very slow
+Model will be evaluated for if it's usable for our research June 23rd
