@@ -1,5 +1,4 @@
 Gemini 3.1 Flash Lite - gemini-3.1-flash-lite
-Gemini 3.5 Flash - gemini-3.5-flash
 Mistral Small Latest - mistral-small-latest
 Mistral Medium Latest - mistral-medium-latest
 Mistral Large Latest - mistral-large-latest
